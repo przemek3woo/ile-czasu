@@ -1,6 +1,5 @@
-let date = "Jul 29, 2024 19:00:00" // data
-let emotions = ["🤍", "🥰", "😘", "😻", "💋", "💍", "🐧"] // emotki
-
+let date = "Jul 29, 2024 19:00:00"
+let emotions = ["🤍", "🥰", "😘", "😻", "💋", "💍", "🐧"]
 
 let clock = document.getElementById("clock")
 let my_window = document.getElementById("window")
