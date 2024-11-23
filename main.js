@@ -1,5 +1,5 @@
 let date = " Jul 29, 2024 19:00:00"
-let emotions = ["🤍", "🥰", "😘", "😻"]
+let emotions = ["🤍", "🥰", "😘", "😻", "💋", "💍", "🐧"]
 
 
 let clock = document.getElementById("clock")
